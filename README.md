@@ -15,11 +15,8 @@ I am currently working as a Software Developer. I am currently learning about Ma
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SiddharthOza00&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Motivational Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SiddharthOza00&icon=2&color=1)](https://visitcount.itsvg.in)
