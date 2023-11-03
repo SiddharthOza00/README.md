@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Software Developer. I am currently learning about Machine Learning and Data Science. I am looking for help with how to get started and learn about DevOps.
+I am currently working as a Software Developer. I am currently learning about Software Development. I am looking for help with how to get started and learn about DevOps.
 
 
 ## 🌐 Socials:
